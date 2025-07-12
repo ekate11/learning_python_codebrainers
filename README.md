@@ -1,12 +1,8 @@
 # learning_python_codebrainers
-Program
-Kurs dedykowany jest osobom zainteresowanym testowaniem oprogramowania zarówno w roli testera w branżach tradycyjnych, jak również w branżach zielonej gospodarki.
-
---
 
 ### STRUKTURA KURSU:
 
-# kurs obejmuje 88h lekcyjnych (45 min) = w przeliczeniu 66h zegarowe (60 min)) prowadzonych na żywo (on-line), na platformie webinarowej, w formie wirtualnej klasy, w formule live-coding - przez cały czas z trenerem
+# Kurs obejmuje 88h lekcyjnych (45 min) = w przeliczeniu 66h zegarowe (60 min)) prowadzonych na żywo (on-line), na platformie webinarowej, w formie wirtualnej klasy, w formule live-coding - przez cały czas z trenerem
 w ramach usługi przewidziane są przerwy podczas zajęć 6 godzinnych w soboty, które zostały uwzględnione w harmonogramie usługi, jednak nie wliczają się do ilości godzin samej usługi
 dodatkowo planowana jest samodzielna praca własna kursantów w domu (ćwiczenia, projekty), z możliwością konsultacji na platformie Slack - praca ta pozwala utrwalić zdobyta podczas zajęć wiedzę i nie jest wliczana do czasu trwania usługi - nie jest to obowiązkowe;
 zajęcia odbywają się na żywo (online, w formie wirtualnej klasy) w formule wieczorowo-weekendowej - 2x w tygodniu (wieczorem) oraz w wybrane soboty;
@@ -14,13 +10,13 @@ grupa liczy maksymalnie 16 osób i jest jedną z najmniejszych grup na rynku
 całość prowadzona jest zgodnie z aktualną metodologią ISTQB
 --
 
-##| Wprowadzenie do testowania
+| Wprowadzenie do testowania
 
 - \wprowadzenie do testowania, rozwój projektu, dlaczego testowanie jest niezbędne
 - cykl życia oprogramowania i techniki jego wytwarzania, model Wodospadu (Waterfall), model V, wprowadzenie w Scrum i Agile
 - podstawy testowania, testowanie statyczne, przeglądy, regresja
 
-##| Techniki testowania
+| Techniki testowania
 
 - typy i poziomy testów, priorytety, weryfikacja i walidacja, testowanie czarnoskrzynkowe i białoskrzynkowe
 - organizacja i metodologia testowania, analiza ryzyka, funkcjonalność i dane testowe
@@ -30,14 +26,14 @@ całość prowadzona jest zgodnie z aktualną metodologią ISTQB
 - ocena testowanych projektów w zakresie wpływu na środowisko i zrównoważony rozwój
 - zastosowanie zasad środowiskowych 6R
 
-##| Projektowanie testów oraz dokumentacja
+| Projektowanie testów oraz dokumentacja
 
 - planowanie badań testowych, analiza i projektowanie testów, techniki projektowania testów, analiza teoretycznych niuansów badań
 - tworzenie dokumentacji testowej, w tym pod kątem zielonej gospodarki, raportowanie błędów (jira, redmine, testrail, testlink)
 - optymalizacja testów w celu zmniejszenia zużycia energii i redukcji ich negatywnego wpływu na środowisko
 - ocena możliwości implementacji proekologicznych rozwiązań w testowanym oprogramowaniu - identyfikowanie możliwości wprowadzania do oprogramowania zmian wpływających pozytywnie na środowisko
 
-##| Narzędzia testerskie oraz ich wykorzystanie w praktyce
+| Narzędzia testerskie oraz ich wykorzystanie w praktyce
 
 - omówienie i prezentacja najbardziej popularnych narzędzi testerskich
 - testy webserwisów, testy wydajnościowe, testowanie backend
@@ -46,7 +42,7 @@ całość prowadzona jest zgodnie z aktualną metodologią ISTQB
 - zarządzanie testami, proces zarządzania incydentami, zarządzanie zmianą oraz zarządzanie konfiguracją
 - zielone kompetencje: testowanie pod kątem optymalizacji zasobów cyfrowych (np. kompresja obrazów, lazy loading itd) w celu zmniejszenia zużycia zasobów
 
-##| Programowanie w Pythonie
+| Programowanie w Pythonie
 
 - nauka programowania w języku Python
 - instalacja modułów (pytest etc)
@@ -56,7 +52,7 @@ całość prowadzona jest zgodnie z aktualną metodologią ISTQB
 - optymalizacja kodu pod kątem zasobooszczędności
 - zastosowanie języka Python w zielonej gospodarce, m.in. automatyzacja procesów, optymalizacja zasobooszczędności, analiza danych środowiskowych
 
-##| Automatyzacja testów w języku Python (Pytest) oraz testowanie API
+| Automatyzacja testów w języku Python (Pytest) oraz testowanie API
 
 - asercje, pisanie testów i ich uruchamianie w IDE, uruchamianie testów z poziomu linii komend
 - testowanie pod kątem optymalizacji zasobów cyfrowych oraz wdrażanie rozwiązań usprawniających i zwiekszających energooszczędność/zasobooszczędność (np. kompresja zasobów, zmniejszenie ilości wykonywanych operacji, zmniejszenie obciążenia serwera itd.)
@@ -64,8 +60,8 @@ całość prowadzona jest zgodnie z aktualną metodologią ISTQB
 - podstawy tworzenia requestów, korzystanie z autoryzacji (postman monitor)
 - efektywność pisania skryptów automatyzujących testy
 
-##| Testy za pomocą Selenium
+| Testy za pomocą Selenium
 
 - wyszukiwanie WebElementów z wykorzystaniem selektorów, znajomość selektorów, interakcja z elementami na stronie - na podstawie projektów związanych z zieloną gospodarką
 - pobieranie danych z elementów, przetwarzanie danych, POM (page objectmodel) - tworzenie, modyfikacja i użycie FindBy
--omówienie możliwości wykorzystania w zielonej gospodarce narzędzi dodatkowych (np. Selenide, Selenium Grid, Cucumber, Serenity, Allure
+- omówienie możliwości wykorzystania w zielonej gospodarce narzędzi dodatkowych (np. Selenide, Selenium Grid, Cucumber, Serenity, Allure
