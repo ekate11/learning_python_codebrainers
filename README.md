@@ -2,13 +2,7 @@
 
 ### STRUKTURA KURSU:
 
-# Kurs obejmuje 88h lekcyjnych (45 min) = w przeliczeniu 66h zegarowe (60 min)) prowadzonych na żywo (on-line), na platformie webinarowej, w formie wirtualnej klasy, w formule live-coding - przez cały czas z trenerem
-w ramach usługi przewidziane są przerwy podczas zajęć 6 godzinnych w soboty, które zostały uwzględnione w harmonogramie usługi, jednak nie wliczają się do ilości godzin samej usługi
-dodatkowo planowana jest samodzielna praca własna kursantów w domu (ćwiczenia, projekty), z możliwością konsultacji na platformie Slack - praca ta pozwala utrwalić zdobyta podczas zajęć wiedzę i nie jest wliczana do czasu trwania usługi - nie jest to obowiązkowe;
-zajęcia odbywają się na żywo (online, w formie wirtualnej klasy) w formule wieczorowo-weekendowej - 2x w tygodniu (wieczorem) oraz w wybrane soboty;
-grupa liczy maksymalnie 16 osób i jest jedną z najmniejszych grup na rynku
-całość prowadzona jest zgodnie z aktualną metodologią ISTQB
---
+# Program kursu:
 
 | Wprowadzenie do testowania
 
