@@ -2,8 +2,6 @@
 
 ### STRUKTURA KURSU:
 
-# Program kursu:
-
 | Wprowadzenie do testowania
 
 - \wprowadzenie do testowania, rozwój projektu, dlaczego testowanie jest niezbędne
